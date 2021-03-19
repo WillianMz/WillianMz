@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <h3 align="center">Willian</h3>
-<p align="center">
-  <a href="mailto:willianmazzorana@hotmail.com">Email</a>
- </p>
 
 <!--
 **WillianMz/WillianMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
