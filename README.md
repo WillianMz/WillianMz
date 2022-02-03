@@ -19,8 +19,4 @@
   <a href = "mailto:willianmazzorana@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willianmz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-  <div>
-   < href="https://drive.google.com/file/d/1htJlc9htAOrEYCwPJvC8mf9MnwS16Iaz/view?usp=sharing">
   </div>
